@@ -51,7 +51,7 @@ crashlytics-build.properties
 bin/
 .classpath
 .project
-.class
+.class/
 
 ### Gradle template
 .gradle
