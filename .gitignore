@@ -48,7 +48,7 @@ crashlytics-build.properties
 
 #Ignore Eclipse default directories and files
 .settings/
-bin/
+bin/**
 .classpath
 .project
 
